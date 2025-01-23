@@ -11,6 +11,7 @@ Objetivos generales :
 *Implementar consultas SQL que permitan la generación de informes.
 
 
+
 La especificacion consta de las siguientes secciones:
 
 Introducción 
@@ -46,6 +47,7 @@ Back Up
 Herramientas Utilizadas 
 
 
+
 La carpeta DB_SCRIPTS posee los siguientes archivos .sql :
 
 1_DB_Tablas
@@ -58,5 +60,7 @@ La carpeta DB_SCRIPTS posee los siguientes archivos .sql :
 
 5_DB_Transaction
 
+
 La carpeta DB_BACKUP contiene el archivo .sql :
+
 BackUp_Rombo_Pisos
