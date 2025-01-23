@@ -32,9 +32,13 @@ Herramientas Utilizadas
 
 La carpeta DB_SCRIPTS posee los siguientes archivos .sql :
 1_DB_Tablas
+
 2_DB_Objetos
+
 3_DB_Datos
+
 4_DB_Usuarios
+
 5_DB_Transaction
 
 La carpeta DB_BACKUP contiene el archivo .sql :
