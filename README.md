@@ -4,61 +4,61 @@ Entrega del Proyecto Final
 
 Objetivos generales :
 
-*Crear una base de datos relacional, basada en un modelo de negocio.
+  *Crear una base de datos relacional, basada en un modelo de negocio.
 
-*Desarrollar objetos que permitan el mantenimiento de la base de datos.
+  *Desarrollar objetos que permitan el mantenimiento de la base de datos.
 
-*Implementar consultas SQL que permitan la generación de informes.
+  *Implementar consultas SQL que permitan la generación de informes.
 
 
 
 La especificacion consta de las siguientes secciones:
 
-Introducción 
+  Introducción 
 
-Situación Problemática 
+  Situación Problemática 
 
-Modelo de Negocio 
+  Modelo de Negocio 
 
-Diagrama Entidad-Relación 
+  Diagrama Entidad-Relación 
 
-Listado de Tablas y Descripción 
+  Listado de Tablas y Descripción 
 
-Objetos de la Base de datos: Views 
+  Objetos de la Base de datos: Views 
 
-Objetos de la Base de datos: Functions 
+  Objetos de la Base de datos: Functions 
 
-Objetos de la Base de datos: Procedure 
+  Objetos de la Base de datos: Procedure 
 
-Objetos de la Base de datos: Trigger 
+  Objetos de la Base de datos: Trigger 
 
-Inserción de datos 
+  Inserción de datos 
 
-Usuarios 
+  Usuarios 
 
-Transaction Control Language
+  Transaction Control Language
 
-Informe 
+  Informe 
 
-USO: Carpeta DB_SCRIPTS 
+  USO: Carpeta DB_SCRIPTS 
 
-Back Up 
+  Back Up 
 
-Herramientas Utilizadas 
+  Herramientas Utilizadas 
 
 
 
 La carpeta DB_SCRIPTS posee los siguientes archivos .sql :
 
-1_DB_Tablas
+  *1_DB_Tablas
 
-2_DB_Objetos
+  *2_DB_Objetos
 
-3_DB_Datos
+  *3_DB_Datos
 
-4_DB_Usuarios
+  *4_DB_Usuarios
 
-5_DB_Transaction
+  *5_DB_Transaction
 
 
 La carpeta DB_BACKUP contiene el archivo .sql :
